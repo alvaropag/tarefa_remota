@@ -1,1 +1,2 @@
 Este é um arquivo texto local, criado no repositório clonado.
+Esta é a modificação feita no arquivo dentro da branch01
